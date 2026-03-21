@@ -1,0 +1,16 @@
+{
+  "codes": [
+    {
+      "code": "CREM-EXEMPLE1",
+      "expiration": "2026-12-31"
+    },
+    {
+      "code": "CREM-EXEMPLE2",
+      "expiration": "2026-06-30"
+    },
+    {
+      "code": "CREM-EXEMPLE3",
+      "expiration": "2027-01-15"
+    }
+  ]
+}
