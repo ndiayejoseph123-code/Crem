@@ -4,15 +4,10 @@
     {
       "titre": "Exemple de leçon",
       "contenu": "# Introduction\n\nCeci est un exemple de leçon.\n\n## Objectifs\n\n- Comprendre la structure\n- Apprendre la syntaxe\n\n## Contenu principal\n\n**Le texte en gras** s'écrit avec deux astérisques.\n__Le texte souligné__ s'écrit avec deux underscores.\n{r}Le texte rouge{/r} s'écrit avec {r} et {/r}.\n\n{c}Ce texte est centré{/c}\n\n## Exercice type\n\n1. Premier élément numéroté\n2. Deuxième élément numéroté\n3. Troisième élément numéroté"
-    }
-  ],
-  {
-  "titre": "Cahier CREM",
-  "chapitres": [
+    },
     {
       "titre": "Les articles",
-      "contenu": "Le, la, les et l' devant un nom sont des articles definies. Exemple le cahier la maison\nUn une des devant un nom sont des articles indéfinies. Exemple un chapeau des cailloux\n"
+      "contenu": "Le, la, les et l' devant un nom sont des articles definies. Exemple le cahier la maison\nUn une des devant un nom sont des articles indéfinies. Exemple un chapeau des cailloux"
     }
   ]
-}
 }
