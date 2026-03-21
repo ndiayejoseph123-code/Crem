@@ -2,8 +2,8 @@
   "titre": "Cahier CREM",
   "chapitres": [
     {
-      "titre": "Exemple de leçon",
-      "contenu": "# Introduction\n\nCeci est un exemple de leçon.\n\n## Objectifs\n\n- Comprendre la structure\n- Apprendre la syntaxe\n\n## Contenu principal\n\n**Le texte en gras** s'écrit avec deux astérisques.\n__Le texte souligné__ s'écrit avec deux underscores.\n{r}Le texte rouge{/r} s'écrit avec {r} et {/r}.\n\n{c}Ce texte est centré{/c}\n\n## Exercice type\n\n1. Premier élément numéroté\n2. Deuxième élément numéroté\n3. Troisième élément numéroté"
+      "titre": "mr Ndiaye",
+      "contenu": "ça c'est un cahier de révision qui vous permet de bien reviser les cours de cm2 pour préparer le concours crem. c'est entièrement réalisé par un spécialiste de la classe de cm2"
     },
     {
       "titre": "Les articles",
