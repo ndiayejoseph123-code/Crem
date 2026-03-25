@@ -2,21 +2,12 @@
   "titre": "Cahier CREM",
   "chapitres": [
     {
-      "titre": "Sans titre",
-      "contenu": "\nTu vas rater ton examen.\n\nPas parce que tu es bête. Pas parce que tu ne travailles pas.\n\nMais parce que tu révises mal.\n\nTu attends la dernière semaine. Tu relis tes cours sans vraiment comprendre. Tu dors sur tes cahiers. Et le jour J, ta tête est vide.\n\nTu connais déjà cette sensation. Et tu sais très bien que cette année, ça va recommencer.\n\n**Sauf si tu changes quelque chose aujourd'hui.**\n\nLe Cahier CREM c'est tes cours organisés, clairs, toujours dans ta poche. Pas besoin de chercher tes feuilles perdues. Pas besoin d'attendre le prof. Tu ouvres, tu révises, n'importe où, n'importe quand.\n\nMais ce qui change vraiment tout, c'est ce bouton.\n\n**\"Donne-moi un exercice.\"**\n\nUne intelligence artificielle lit ton cours et te pose des questions dessus. Tu réponds. Elle te corrige. Elle te donne une note. Elle t'explique tes erreurs. Comme un professeur particulier disponible à minuit, un dimanche, pendant les fêtes.\n\nLes élèves qui réussissent les concours ne sont pas plus intelligents que toi. Ils s'entraînent plus. Ils se testent plus. Ils connaissent leurs lacunes avant le jour de l'examen.\n\nMaintenant tu peux faire pareil.\n\nCliquez sur la flèche en bas à droite pour aller au chapitre suivant."
-    }
-  ]
-},
-{
-  "titre": "Cahier CREM",
-  "chapitres": [
-    {
-      "titre": "Sans titre",
-      "contenu": "\nTu vas rater ton examen.\n\nPas parce que tu es bête. Pas parce que tu ne travailles pas.\n\nMais parce que tu révises mal.\n\nTu attends la dernière semaine. Tu relis tes cours sans vraiment comprendre. Tu dors sur tes cahiers. Et le jour J, ta tête est vide.\n\nTu connais déjà cette sensation. Et tu sais très bien que cette année, ça va recommencer.\n\n**Sauf si tu changes quelque chose aujourd'hui.**\n\nLe Cahier CREM c'est tes cours organisés, clairs, toujours dans ta poche. Pas besoin de chercher tes feuilles perdues. Pas besoin d'attendre le prof. Tu ouvres, tu révises, n'importe où, n'importe quand.\n\nMais ce qui change vraiment tout, c'est ce bouton.\n\n**\"Donne-moi un exercice.\"**\n\nUne intelligence artificielle lit ton cours et te pose des questions dessus. Tu réponds. Elle te corrige. Elle te donne une note. Elle t'explique tes erreurs. Comme un professeur particulier disponible à minuit, un dimanche, pendant les fêtes.\n\nLes élèves qui réussissent les concours ne sont pas plus intelligents que toi. Ils s'entraînent plus. Ils se testent plus. Ils connaissent leurs lacunes avant le jour de l'examen.\n\nMaintenant tu peux faire pareil.\n\nCliquez sur la flèche en bas à droite pour aller au chapitre suivant."
+      "titre": "Introduction",
+      "contenu": "Tu vas rater ton examen. Pas parce que tu es bête, mais parce que tu révises mal..."
     },
     {
-      "titre": "Conjugaison les verbes du premier groupe",
-      "contenu": "Tous les verbes qui se terminent par er, sont des verbes du premier groupe sauf le verbe aller.\nPour les conjurer au présent, on enlève le er ensuite on mets les terminaisons {r}e, es, e, ons,ez, ent{/r}\nExemple\n__jouer__\nJe joue\nTu joues\nIl joue\nNous jouons\nVous jouez \nIls jouent\nPour les conjuguer à l'imparfait, on enlève toujours le {r}er{/r}, puis on mets les terminaisons {r}ais, ais, ait, ions, iez, aient{/r}\nExemple \n__jouer__\nJe jouais\nTu jouais \nIl jouait \nNous jouions \nVous jouez\nIls jouaient \nPour le passé simple on fait la même chose puis on met les terminaisons du passé simple qui sont \n{r}ais, as, a, âmes, âtes, èrent{/r}\nExemple \nJouer\nJe jouais \nTu jouas \nIl joua \nNous jouâmes \nJouâtes\nJouèrent \nMais si c'est au futur simple, on enlève pas le {r}er{/r}.\nOn écrit tout le verbe puis on ajoute les terminaisons \nAi, as a ons ez ont\n__jouer__\nJe jouer ai\nTu jouer as\nIl jouer a\nNous jouer ons\nVous jouer ez\nIls jouer ont\n"
+      "titre": "Conjugaison : les verbes du premier groupe",
+      "contenu": "Tous les verbes qui se terminent par er (sauf aller) sont du premier groupe.\n\nPrésent : e, es, e, ons, ez, ent\nExemple : jouer → je joue, tu joues...\n\nImparfait : ais, ais, ait, ions, iez, aient\nExemple : je jouais, tu jouais...\n\nPassé simple : ai, as, a, âmes, âtes, èrent\nExemple : je jouai...\n\nFutur simple : ai, as, a, ons, ez, ont\nExemple : je jouerai..."
     }
   ]
 }
