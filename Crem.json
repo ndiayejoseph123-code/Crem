@@ -3,7 +3,7 @@
   "chapitres": [
     {
       "titre": "Sans titre",
-      "contenu": "\nTu vas rater ton examen.\n\nPas parce que tu es bête. Pas parce que tu ne travailles pas.\n\nMais parce que tu révises mal.\n\nTu attends la dernière semaine. Tu relis tes cours sans vraiment comprendre. Tu dors sur tes cahiers. Et le jour J, ta tête est vide.\n\nTu connais déjà cette sensation. Et tu sais très bien que cette année, ça va recommencer.\n\n**Sauf si tu changes quelque chose aujourd'hui.**\n\nLe Cahier CREM c'est tes cours organisés, clairs, toujours dans ta poche. Pas besoin de chercher tes feuilles perdues. Pas besoin d'attendre le prof. Tu ouvres, tu révises, n'importe où, n'importe quand.\n\nMais ce qui change vraiment tout, c'est ce bouton.\n\n**\"Donne-moi un exercice.\"**\n\nUne intelligence artificielle lit ton cours et te pose des questions dessus. Tu réponds. Elle te corrige. Elle te donne une note. Elle t'explique tes erreurs. Comme un professeur particulier disponible à minuit, un dimanche, pendant les fêtes.\n\nLes élèves qui réussissent les concours ne sont pas plus intelligents que toi. Ils s'entraînent plus. Ils se testent plus. Ils connaissent leurs lacunes avant le jour de l'examen.\n\nMaintenant tu peux faire pareil.\n\nCliquez sur la flèche en bas à droite pour aller au chapitre suivant."
+      "contenu": "dans ce cahier, monsieur ndiaye note chaque jour les remarques et les leçons que nous tirons de nos revisions."
     },
     {
       "titre": "Conjugaison les verbes du premier groupe",
@@ -14,6 +14,9 @@
     },
     {"titre": "deux verbes qui se suivent",
       "contenu": "quand deux verbes se suivent, le second se met à l'infinitif mais il faut que ces deux verbes aient le même sujet. exemple moussa vient effacer le tableau. Aminata part travailler"
+    },
+    {"titre": "les adjectifs vieux et beau",
+      "contenu": "devant un nom masculin commençant par une voyelle oubien un h muet, on écrit pas vieux oubien beau mais plutôt viel oubien bel. exemple un bel arbre un bel homme un viel homme un viel arbre"
     }
   ]
 }
